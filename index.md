@@ -13,13 +13,6 @@ jerry：男     12岁
 
 ### 公司产品
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
 | 星际争霸      | 星战的灰烟，在此还原               | 20元/注册   | 
 |:--------------|:---------------------------------|:-----------|
 | minecraft 2D  | 一张纸还是个世界，只要你才知道      | 150元/注册 |
