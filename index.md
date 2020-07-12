@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## 欢迎来到MICY  （小猫）  科技有限公司
+在迅驰的世界，畅游出独特的自我
 
-You can use the [editor on GitHub](https://github.com/micy-2020/micy-2020.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 公司理念
+展望历史，亿数新星，光照世杰。回首今朝，新众一萤，燃之其渺！群之锐剑，唯此致之！
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 法人代表：何若麒 （leader） 首席工程师：何若慧  （interstellar）
+何若麒：男     5岁  
+何若慧：男     12岁
 
-### Markdown
+### 公司概述
+公司成立于2020年1月11日，专注于制作电子游戏，目前，何若慧为本公司首席工程师，何若麒为本公司领导人。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/micy-2020/micy-2020.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 公司产品
+【星际争霸】    星战的灰烟，在此还原         （20元/注册） 
