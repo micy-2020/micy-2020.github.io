@@ -13,14 +13,14 @@ jerry：男     12岁
 
 ### 公司产品
 
-| 星际争霸      | 星战的灰烟，在此还原               | 20元/注册   | 
-|:--------------|:---------------------------------|:-----------|
-| minecraft 2D  | 一张纸还是个世界，只要你才知道      | 150元/注册 |
-| 我的世界2D中文 | 在一张世界里，华夏基金结晶尽显魅力  | 200元/注册  |
-| 2019-ncov     | 在武汉这城中，好像按下了暂停键      | 免费/注册   |
-| SUPER MARIO BROS | 你儿时的回忆 | 30元/注册 |
-| 山地自行车 | 一起来山地玩耍吧 | 50元/注册 |
-| 滑雪者救援 | 赶快救走有困难的人 | 50元/注册 |
+| 星际争霸      | 星战的灰烟，在此还原               | 20元/注册   | ![starcraft](https://raw.githubusercontent.com/micy-2020/micy-2020.github.io/master/assets/images/MICY.Starcraft.chinese.png) |
+|:--------------|:---------------------------------|:-----------|:--|
+| minecraft 2D  | 一张纸还是个世界，只要你才知道      | 150元/注册 | ![minecraft en](https://raw.githubusercontent.com/micy-2020/micy-2020.github.io/master/assets/images/MICY.Minecraft.English.2D.png) |
+| 我的世界2D中文 | 在一张世界里，华夏基金结晶尽显魅力  | 200元/注册  | ![minecraft zh](https://raw.githubusercontent.com/micy-2020/micy-2020.github.io/master/assets/images/MICY.Minecraft.chinese.2D.png) |
+| 2019-ncov     | 在武汉这城中，好像按下了暂停键      | 免费/注册   | ![ncov](https://raw.githubusercontent.com/micy-2020/micy-2020.github.io/master/assets/images/MICY.2019-nCoV.png) |
+| SUPER MARIO BROS | 你儿时的回忆 | 30元/注册 | ![mario](https://raw.githubusercontent.com/micy-2020/micy-2020.github.io/master/assets/images/MICY.SUPER MARIO BROS.png) |
+| 山地自行车 | 一起来山地玩耍吧 | 50元/注册 | ![bike](https://raw.githubusercontent.com/micy-2020/micy-2020.github.io/master/assets/images/MICY.bike.png) |
+| 滑雪者救援 | 赶快救走有困难的人 | 50元/注册 | ![rescue](https://raw.githubusercontent.com/micy-2020/micy-2020.github.io/master/assets/images/MICY.skier_savior.png) |
 
 
 
