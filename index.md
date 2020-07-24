@@ -21,7 +21,7 @@ jerry：男     12岁
 | SUPER MARIO BROS | 你儿时的回忆 | 20元 | <img src="https://raw.githubusercontent.com/micy-2020/micy-2020.github.io/master/assets/images/MICY.SUPER MARIO BROS.png" width="200"> |
 | 山地自行车 | 一起来山地玩耍吧 | 20元 | <img src="https://raw.githubusercontent.com/micy-2020/micy-2020.github.io/master/assets/images/MICY.bike.png" width="200"> |
 | 滑雪者救援 | 赶快救走有困难的人 | 20元 | <img src="https://raw.githubusercontent.com/micy-2020/micy-2020.github.io/master/assets/images/MICY.skier_savior.png" width="200"> |
-| Starcraft      | 星战的灰烟，在此还原               | 20元   | <img src="https://raw.githubusercontent.com/micy-2020/micy-2020.github.io/master/assets/images/MICY.Starcraft.chinese.png" width="200"> |
+| Starcraft      | 星战的灰烟，在此还原               | 20元   | <img src="https://raw.githubusercontent.com/micy-2020/micy-2020.github.io/master/assets/images/MICY.starcraft.en.png" width="200"> |
 
 
 
